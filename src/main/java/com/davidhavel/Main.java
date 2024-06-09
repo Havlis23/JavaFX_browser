@@ -40,7 +40,7 @@ public final class Main extends Application {
     @Override
     public void start(Stage primaryStage) {
         EngineOptions options = EngineOptions.newBuilder(HARDWARE_ACCELERATED)
-                .licenseKey("OK6AEKNYF1OQ677UTUZ5Y7RD57O3MDI3AK1A92OJM7VPWHG24UZ18ZP9M7I3XT4BP0WBYZTETW0VYCE390TKB1IOYWUO9PBF97QQM0UY2N94Y5WWMMARMR0K6214XBA5YQ98F48KLC9AV9AUF")
+                .licenseKey("XXXXXXX")
                 .build();
         Engine engine = Engine.newInstance(options);
 
