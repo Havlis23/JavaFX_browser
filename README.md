@@ -19,7 +19,7 @@ git clone https://github.com/DavidHavel233/testtest.git
 ```
 2. Navigate into the cloned repository
 ```bash
-cd testtest
+cd JavaFX_browser
 ```
 3. Build the project with Maven
 ```bash
