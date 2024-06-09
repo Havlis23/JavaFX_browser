@@ -43,6 +43,3 @@ mvn exec:java
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-```
-
-Please replace the URLs and other placeholders with the actual values.
