@@ -1,0 +1,40 @@
+/* Style the tab headers */
+/*.tab-pane .tab-header-area .tab {
+    -fx-background-color: #444;
+    -fx-text-fill: #fff;
+    -fx-padding: 5px 10px;
+}*/
+
+.tab-pane .tab-header-area .tab:hover {
+    -fx-background-color: #d7d7d7;
+}
+
+.url-bar {
+    padding: 5px;
+    -fx-border-color: #ccc;
+    -fx-border-radius: 3px;
+    -fx-border-width: 1px;
+    -fx-font-size: 14px;
+    -fx-background-color: #f8f8f8;
+}
+
+.button-bar {
+    padding: 10px;
+    background-color: #f0f0f8;
+    -fx-border-color: #ccc;
+    -fx-border-width: 0 0 1px 0;
+    -fx-spacing: 5px;
+}
+
+.nav-button {
+    padding: 5px 10px;
+    margin-right: 5px;
+    background-color: #e7e7e7;
+    -fx-border-color: #ccc;
+    -fx-border-radius: 3px;
+    -fx-border-width: 1px;
+}
+
+.nav-button:hover {
+    background-color: #d7d7d7;
+}
